@@ -1,10 +1,10 @@
 ## 将安卓手机投屏到MAC电脑
 
-我使用的是scrcpy这个工具，它是一个免费的开源软件，支持Linux，Win，macOS系统，可以实现安卓手机投屏到电脑上并用键鼠操作手机
+我使用的是scrcpy这个工具，它是一个免费的开源软件，支持Linux，Win，macOS系统，可以实现安卓手机投屏到电脑上的同时使用键鼠操作手机
 
 ### 安装步骤
 
-1) 点开[scrcpy的github网址](https://github.com/Genymobile/scrcpy)
+1) 进入[scrcpy](https://github.com/Genymobile/scrcpy)的github仓库
 
 2) 在README中找到Get the app，点击macOS跳转到Install界面
 
