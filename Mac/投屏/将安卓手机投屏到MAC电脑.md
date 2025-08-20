@@ -131,6 +131,7 @@ adb tcpip 5555
 
 ### 其他
 >在README界面中有更加具体的各种操作指南（点击Translations）
-><img width="444" height="175" alt="image" src="https://github.com/user-attachments/assets/3af8e86b-2348-4862-80b8-c5abfcbfaa4f" />\
+>
+><img width="444" height="175" alt="image" src="https://github.com/user-attachments/assets/3af8e86b-2348-4862-80b8-c5abfcbfaa4f" />
 >
 >``但是只有README和FAQ界面有翻译，其他内容依然还是英文``
